@@ -1,0 +1,52 @@
+# ChinchuLink - Git Ignore Configuration
+
+# SQL Server specific
+*.bak
+*.mdf
+*.ldf
+*.ndf
+*.trn
+
+# Database backup files
+*.backup
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build and deployment
+/bin/
+/obj/
+/dist/
+/build/
+
+# Logs
+*.log
+logs/
+
+# PowerPoint temporary files
+~*.pptx
+~*.ppt
+
+# Documentation temporary files
+*.md~
+*.md.backup
