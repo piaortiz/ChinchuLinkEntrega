@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="A - Documentacion Tecnica/09 - chinchulink-logo.png" alt="ChinchuLink Logo" width="300"/>
-</div>
-
 # ChinchuLink v1.0
 ## Sistema de Gestión de Pedidos para Restaurantes
 
@@ -20,29 +16,24 @@
   <table>
     <tr>
       <td align="center">
-        <img src="A - Documentacion Tecnica/team-mariapia-ortiz.png" width="120" style="border-radius: 50%"/><br/>
         <strong>Mariapía Ortiz</strong><br/>
         <em>Project Manager</em>
       </td>
       <td align="center">
-        <img src="A - Documentacion Tecnica/team-adrian-barletta.png" width="120" style="border-radius: 50%"/><br/>
         <strong>Adrián Barletta</strong><br/>
         <em>Database Administrator</em>
       </td>
       <td align="center">
-        <img src="A - Documentacion Tecnica/team-franco-emmert.png" width="120" style="border-radius: 50%"/><br/>
         <strong>Franco Emmert</strong><br/>
         <em>QA / Editor</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="A - Documentacion Tecnica/team-agustin-acosta.png" width="120" style="border-radius: 50%"/><br/>
         <strong>Agustín Acosta</strong><br/>
         <em>Developer SQL</em>
       </td>
       <td align="center">
-        <img src="A - Documentacion Tecnica/team-lucas-miedwiediew.png" width="120" style="border-radius: 50%"/><br/>
         <strong>Lucas Miedwiediew</strong><br/>
         <em>Developer SQL</em>
       </td>
