@@ -167,6 +167,8 @@ La carpeta `A - Documentacion Tecnica` contiene documentación completa:
 
 Este proyecto es desarrollado con fines académicos como parte del cursado de la materia Administración de Bases de Datos en ISTEA. El código y la documentación están disponibles para revisión y evaluación académica.
 
+---------------------------
+
 ## Agradecimientos
 
 Agradecimiento especial al profesor Victor Cordero por la guía y supervisión durante el desarrollo del proyecto, y al instituto ISTEA por proporcionar el marco académico para el aprendizaje de administración de bases de datos.
