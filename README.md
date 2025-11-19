@@ -155,7 +155,7 @@ La carpeta `A - Documentacion Tecnica` contiene documentación completa:
 ## Métricas del Proyecto
 
 - **Líneas de código SQL:** 2000+ líneas
-- **Tablas implementadas:** 17
+- **Tablas implementadas:** 20+
 - **Stored Procedures:** 15+
 - **Triggers:** 8+
 - **Vistas:** 10+
