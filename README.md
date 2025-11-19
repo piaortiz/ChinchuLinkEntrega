@@ -95,7 +95,7 @@ ChinchuLink v1.0/
 ## Características Técnicas
 
 ### Base de Datos
-- **17 tablas** completamente normalizadas
+- **+20 tablas** completamente normalizadas
 - **Motor:** Microsoft SQL Server
 - **Triggers automáticos** para integridad referencial
 - **Stored procedures** para operaciones críticas
